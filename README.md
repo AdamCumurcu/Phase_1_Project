@@ -6,7 +6,7 @@
 
 With this analysis, we seek to identify parameters that will help us identify both a location and market to target with a new bike shop.
 
-![City-street-bicycle-parking_1920x1200.jpg](attachment:https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/City-street-bicycle-parking_1920x1200.jpg)
+![City-street-bicycle-parking_1920x1200.jpg](https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/City-street-bicycle-parking_1920x1200.jpg)
 
 ### Business Problem
 
@@ -42,13 +42,13 @@ Utilizing various parameters, we gather and parse the results from Yelp before s
 
 We convert the price points to a value between one and four, with four being the most expensive. The percentages also factor out Yelp businesses that did not include a value for price.
 
-![price_percentages.png](attachment:https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/price_percentages.png)
+![price_percentages.png](https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/price_percentages.png)
 
 Overall, the percentage of bike shops per price point is relatively similar for both locations. However, there is one notable difference. The DC area does not contain any bike shops within the highest price point. Based on this observation, a high-end bike shop in that area seems more favorable.
 
 To further investigate this initial observation, we view the percentage of reviews that bike shops in both areas currently hold.
 
-![review_percentages.png](attachment:https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/review_percentages.png)
+![review_percentages.png](https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/review_percentages.png)
 
 There are two observations that we observe in the above graph.
 1. The DC area's ratings show a steady, upward trend, showing that bike shops are consistently rated at higher levels.
@@ -59,13 +59,13 @@ This shows us that a higher percentage of bike shops in the DC area are seen fav
 An additional consideration that we investigated was the availability of bike routes (denoted in blue lines) in the area as well as the location of bike shops along those paths.
 First, we view the Manhanttan area.
 
-![ny_bike.png](attachment:https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/ny_bike.png)
+![ny_bike.png](https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/ny_bike.png)
 
 From this map, it is clear that the area holds quite extensive bike routes. However, another notable observation is the concentration of bike shops surrounding them. Not only is there an extensive system of bike routes, but a flurry of bike shops along them. This brings into question how well a new bike shop might do, considering the competition it would face.
 
 Seeing this, we now observe the DC area.
 
-![dc_bike_map.png](attachment:https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/dc_bike_map.png)
+![dc_bike_map.png](https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/dc_bike_map.png)
 
 In a similar vein, the DC area contains an extensive network of bike routes. However, one notable difference is the lower concentration of bike shops. Compared to our mapping of the NYC area, DC contains a considerably lower availability of bike shops.
 
@@ -78,7 +78,7 @@ ___
 Thus far, the DC area shows more favorable results based on our analysis of the average ratings, available price points, and concentration of current shops.
 However, in choosing to target the high-end market, we also observe the relation between price and ratings.
 
-![price_vs_rating.png](attachment:https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/price_vs_rating.png)
+![price_vs_rating.png](https://raw.githubusercontent.com/ismizu/Phase_1_Project/main/images/price_vs_rating.png)
 
 Here, we observe a negative trend between the price point and average rating. As the price point increases, the average review falls.
 
