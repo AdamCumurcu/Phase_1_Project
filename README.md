@@ -6,7 +6,7 @@
 
 With this analysis, we seek to identify parameters that will help us identify both a location and market to target with a new bike shop.
 
-![City-street-bicycle-parking_1920x1200.jpg](attachment:City-street-bicycle-parking_1920x1200.jpg)
+![City-street-bicycle-parking_1920x1200.jpg](attachment:/images/City-street-bicycle-parking_1920x1200.jpg)
 
 ### Business Problem
 
